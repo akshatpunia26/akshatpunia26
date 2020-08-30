@@ -13,13 +13,16 @@
 
  ### Languages and Tools:
 
- [<img align="left" alt="Python" width="22px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" />][linkedin]
- [<img align="left" alt="C" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
- [<img align="left" alt="Visual Studio Code" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+ [<img align="left" alt="Python" width="22px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" />][python]
+ [<img align="left" alt="C" width="22px" src="https://toppng.com/public/uploads/preview/c-programming-icon-c-programming-language-logo-11562945679duaxtn3yq0.png" />][C]
+ [<img align="left" alt="Visual Studio Code" width="22px" src="https://40jajy3iyl373v772m19fybm-wpengine.netdna-ssl.com/visualstudio/wp-content/uploads/sites/4/2018/11/preview-thumb.png" />][vsv]
  
  <br />
  <br />
 
  [instagram]: https://www.instagram.com/akshatpunia26/
  [linkedin]: https://www.linkedin.com/in/akshatpunia/detail/contact-info/
+ [python]:https://www.python.org/downloads/
+ [C]:https://en.wikipedia.org/wiki/C_%28programming_language%29
+ [vsc]:https://code.visualstudio.com/Download
 
