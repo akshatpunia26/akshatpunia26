@@ -1,9 +1,8 @@
 ### Hi there, I'm Akshat 👋
 
  ## I'm a Student and a Programmer. 
- - 🔭 I’m currently working on a [VS Code Course][website]!
  - 🌱 Currently learning data handling and development with Python.
- - 🥅 2020 Goals: Contribute more in Github and take on some projects using the things I have learned.
+ - 🥅 2020 Goals: Taking on and completing some projects using the things I have learned.
  - ⚡  And I love to play my uke :p
  ### Connect with me:
  [<img align="left" alt="Akshat Punia | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
