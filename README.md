@@ -15,7 +15,7 @@
 
  [<img align="left" alt="Python" width="22px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" />][python]
  [<img align="left" alt="C" width="22px" src="https://toppng.com/public/uploads/preview/c-programming-icon-c-programming-language-logo-11562945679duaxtn3yq0.png" />][C]
- [<img align="left" alt="Visual Studio Code" width="22px" src="https://40jajy3iyl373v772m19fybm-wpengine.netdna-ssl.com/visualstudio/wp-content/uploads/sites/4/2018/11/preview-thumb.png" />][vsv]
+ [<img align="left" alt="Visual Studio Code" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Visual_Studio_Code_1.18_icon.svg/1200px-Visual_Studio_Code_1.18_icon.svg.png" />][vsc]
  
  <br />
  <br />
