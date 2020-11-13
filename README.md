@@ -1,13 +1,14 @@
-### Hi there, I'm Akshat 👋
+### Well hello there, I'm Akshat 👋
 
- ## I'm a Student and a Programmer. 
- - 🌱 Currently learning data handling and development with Python.
+ ## Currently an engineering major and taking on new projects 
+ - Currently learning data handling and development with Python.
  - 🥅 2020 Goals: Taking on and completing some projects using the things I have learned.
- - ⚡  And I love to play my uke :p
- ### Connect with me:
+ 
+ ### Connect with me on social media:
+ 
  [<img align="left" alt="Akshat Punia | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
  [<img align="left" alt="Akshat Punia | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
+ [<img align="left" alt="Akshat Punia | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][twitter]
  <br />
 
  ### Languages and Tools:
@@ -20,7 +21,8 @@
  <br />
 
  [instagram]: https://www.instagram.com/akshatpunia26/
- [linkedin]: https://www.linkedin.com/in/akshatpunia/detail/contact-info/
+ [linkedin]: https://www.linkedin.com/in/akshat-punia
+ [twitter]: https://twitter.com/akshatpunia26
  [python]:https://www.python.org/downloads/
  [C]:https://en.wikipedia.org/wiki/C_%28programming_language%29
  [vsc]:https://code.visualstudio.com/Download
