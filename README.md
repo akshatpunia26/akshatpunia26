@@ -1,29 +1,23 @@
-### Well hello there, I'm Akshat 👋
+### Hi there 👋
 
- ## Currently an engineering major and taking on new projects 
- - Currently learning data handling and development with Python.
- - 🥅 2020 Goals: Taking on and completing some projects using the things I have learned.
- 
- ### Connect with me on social media:
- 
- [<img align="left" alt="Akshat Punia | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
- [<img align="left" alt="Akshat Punia | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
- [<img align="left" alt="Akshat Punia | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
- <br />
+<!--
+**prakharrathi25/prakharrathi25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
- ### Languages and Tools:
+Here are some ideas to get you started:
 
- [<img align="left" alt="Python" width="22px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" />][python]
- [<img align="left" alt="C" width="22px" src="https://toppng.com/public/uploads/preview/c-programming-icon-c-programming-language-logo-11562945679duaxtn3yq0.png" />][C]
- [<img align="left" alt="Visual Studio Code" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Visual_Studio_Code_1.18_icon.svg/1200px-Visual_Studio_Code_1.18_icon.svg.png" />][vsc]
- 
- <br />
- <br />
+- 💬 Ask me about the intersection of technology and finance
+-->
+- 🔭 I’m currently working at the [Alan Turing Institute](https://github.com/alan-turing-institute) as a member of the Data Study Group.  
+- 🖊️ I also try to write once in a while. [Check it out](https://medium.com/@prakharrathi25)!
+- 🌱 I’m currently learning about Financial Applications of Machine Learning and Deep Learning
+- 👯 I’m looking to collaborate on open source projects or any project that can help others during the Covid-19 Pandemic
+- 🤔 I’m looking for help with being more productive during the pandemic 
+- 📫 How to reach me: [pr440@snu.edu.in](mailto:pr440@snu.edu.in)
+- 📧 Check out my [portfolio website](https://prakharrathi25.github.io/) to get to know me better
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I am really into trekking
 
- [instagram]: https://www.instagram.com/akshatpunia26/
- [linkedin]: https://www.linkedin.com/in/akshat-punia
- [twitter]: https://twitter.com/akshatpunia26
- [python]:https://www.python.org/downloads/
- [C]:https://en.wikipedia.org/wiki/C_%28programming_language%29
- [vsc]:https://code.visualstudio.com/Download
-
+<br/>
+<div align="center" style= "align-content":center>
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=prakharrathi25&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
+</div>
