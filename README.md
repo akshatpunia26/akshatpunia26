@@ -7,12 +7,10 @@ Here are some ideas to get you started:
 
 - 💬 A
 -->
-- 🔭 I’m currently working at the [Alan Turing Institute](https://github.com/alan-turing-institute) as a member of the Data Study Group.  
-- 🖊️ I also try to write once in a while. [Check it out](https://medium.com/@prakharrathi25)!
+- 🔭 I’m currently working at the [Alan Turing Institute]() as a member of the Data Study Group.  
+- 🖊️ I also try to write once in a while. [Check it out]()!
+- 📫 How to reach me: [akshatpunia04@gmail.com](mailto:akshatpunia04@gmail.com)
 
-- 🤔 I’m looking for help with being more productive during the pandemic 
-- 📫 How to reach me: [pr440@snu.edu.in](mailto:pr440@snu.edu.in)
-- 📧 Check out my [portfolio website](https://prakharrathi25.github.io/) to get to know me better
 
 
 <br/>
