@@ -7,8 +7,8 @@ Here are some ideas to get you started:
 
 - 💬 A
 -->
-- 🔭 I’m currently working at the [Alan Turing Institute]() as a member of the Data Study Group.  
-- 🖊️ I also try to write once in a while. [Check it out]()!
+- 🔭 I’m currently working at the [A]().  
+- 🖊️ [C]()!
 - 📫 How to reach me: [akshatpunia04@gmail.com](mailto:akshatpunia04@gmail.com)
 
 
