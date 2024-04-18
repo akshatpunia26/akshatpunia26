@@ -1,1 +1,1 @@
-<h4 align="center">Hi, I'm Akshat Punia. You can learn more about me from https://akshatpunia.com</h4>
+<h4 align="center">Building things and having fun. Checkout my projects below and reach out on X if you want to get in touch.</h4>
