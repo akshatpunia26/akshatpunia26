@@ -1,1 +1,1 @@
-<h4 align="center">Building things and having fun. Checkout my projects below and reach out on X if you want to get in touch.</h4>
+<h4 align="center">Currently working on a new history and culutral experience in India @anvaymap. You can reach out to me on X.</h4>
