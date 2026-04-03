@@ -1,7 +1,9 @@
-I ship custom AI systems and map-based software applications for small and mid-size teams.
+I ship custom software systems and map-based applications for small and mid-size teams.
 
-This includes internal AI tools, automation pipelines, AI chatbots, and advisor products.
+This includes internal tools, automation pipelines, chatbots, and advisor products.
 
-Also build and maintain Anvaya Maps](https://anvayamaps.com) — a focused project to deliver a new history and cultural experience across India.
+I also build and maintain [Anvaya Maps](https://anvayamaps.com) — a new history and cultural experience across India.
 
-Reach me on [X @akshat_punia](https://x.com/akshat_punia)
+Reach out on  
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/akshat_punia)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshatpunia/)
